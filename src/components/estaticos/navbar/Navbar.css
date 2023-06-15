@@ -1,0 +1,26 @@
+.navbar{
+    background-color: #F9C2D8;
+    color:#6C88C4;
+    height: 5vh;
+    width: 100%;
+    justify-content: space-between;
+   
+    
+   
+}
+.logo{
+  height:100%;
+  margin-left: 5rem;
+}
+.mokonasLogo{
+    width:2rem;
+}
+
+.menu{
+    gap:1em;
+    margin-right: 5rem;
+}
+
+.fonte{
+    font-family: Inter !important;
+}
